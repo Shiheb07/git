@@ -1,9 +1,0 @@
-
-ls
-cd
-git init
-git remote add origin [gitLink]
-git add .
-git commit -m "First commit"
-git push origin master
-
